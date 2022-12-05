@@ -1,0 +1,23 @@
+{
+  "name": "tweetshasardeux",
+  "version": "1.0.0",
+  "description": "A Twitter Bot to tweet random sentences with media.",
+  "type": "module",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SohaibMhd745/tweetshasardeux.git"
+  },
+  "author": "SohaibMhd745",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SohaibMhd745/tweetshasardeux/issues"
+  },
+  "homepage": "https://github.com/SohaibMhd745/tweetshasardeux#readme",
+  "dependencies": {
+    "twitter-api-v2": "^1.12.9"
+  }
+}
